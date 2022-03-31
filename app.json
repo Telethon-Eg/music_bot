@@ -47,17 +47,17 @@
         "GROUP_SUPPORT": {
             "description": "ضع هنا يوزر جروبك بدون علامة @",
             "required": true,
-            
+            "value": "FLASH_MASR"
         },
         "UPDATES_CHANNEL": {
             "description": "ضع هنا يوزر قناتك بدون علامة @",
             "required": true,
-            
+            "value": "FLASH_MASR"
         },
         "OWNER_NAME": {
             "description": "ضع هنا يوزر المطور بدون علامة @",
             "required": true,
-            
+            "value": "FLASH_MASR"
         },
         "ALIVE_NAME": {
             "description": "اتركها كما هي",
